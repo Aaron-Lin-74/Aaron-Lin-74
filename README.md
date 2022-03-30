@@ -3,6 +3,9 @@
 
 ### A highly motivated tech enthusiast who is passionate about web development.
 #### Possessing experience in front-end web development using React, Redux, JavaScript ES6/TypeScript, HTML5, and CSS3/SASS. Experience in back-end web development, with Node/Express, REST API, and AWS.
+
+##### My portfolio https://aaron-lin-74.github.io/personal-portfolio/
+
 - 🔭 I’m currently working on refactor code of my projects to make them cleaner, more maintainable and testable.
 - 🌱 I’m currently learning Redux
 - :books: 2022 Goals: Learn more about how to write cleaner, more maintainable and testable code for both frontend and backend.
