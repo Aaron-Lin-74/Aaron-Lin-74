@@ -2,7 +2,7 @@
 
 
 ### A highly motivated tech enthusiast who is passionate about web development.
-#### Possessing experience in front-end web development using React, Redux, JavaScript ES6/TypeScript, HTML5, and CSS3/SASS. Experience in back-end web development, with Node/Express, REST API, and AWS.
+#### My experiences include front-end web development (React, Redux, JavaScript ES6/TypeScript, HTML5, and CSS3/SASS), backend web development (Node/Express, REST API), and AWS Cloud infrastructure.
 
 ##### My portfolio https://aaron-lin-74.github.io/personal-portfolio/
 
